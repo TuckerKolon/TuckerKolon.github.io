@@ -1,0 +1,74 @@
+<HTML>
+
+<Head>
+
+</Head>
+<Body>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #008000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">Search</a></li>
+  <li><a href="contact.asp">Game Analysis</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+
+
+<img src="JaylenBrown.png">
+<p>Player: Jaylen Brown </p>
+ <p> Age: 21 </p>
+<p>Position: SF/SG </p>
+<p> Height/Weight: 6-7, 225 lbs</p>
+<p> College: University of California</p>
+<P> Experience: 2 years </p>
+<table style="width:35%">
+  <tr>
+  <th>Summary</th>
+    <th>GP</th> 
+    <th>PTS</th>
+	<th>TRB</th>
+	<th>AST</th>
+	<th>FG%</th>
+	<th>FG3%</th>
+	<th>FT%</th>
+	<th>eFG%<th>
+  </tr>
+  <tr>
+    <td>Career</td>
+    <td>148</td> 
+    <td>10.4</td>
+	<td>3.8</td>
+	<td>1.2</td>
+	<td>46.5</td>
+	<td>37.9</td>
+	<td>65.8</td>
+	<td>52.9</td>
+  </tr>
+</table>
+
+
+</Body>
+<HTML>
